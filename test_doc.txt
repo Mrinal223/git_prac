@@ -1,0 +1,2 @@
+this is the git file 
+now we are working in git 
