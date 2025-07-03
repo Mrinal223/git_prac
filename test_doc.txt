@@ -1,2 +1,4 @@
 this is the git file 
-now we are working in git 
+now we are working in git
+
+ok so we do another changes in this is create another 
